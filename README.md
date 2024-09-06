@@ -6,4 +6,4 @@ The technical choices made in this script are to utilize the built-in QGIS Proce
 
 However, there are trade-offs to consider. The current implementation uses a placeholder for volume calculation, which may not be the most efficient or accurate method. Future iterations could incorporate more sophisticated algorithms or methods tailored to specific project requirements. Furthermore, the script currently lacks comprehensive error handling, and implementing error-checking mechanisms could improve user experience by providing clearer feedback when issues. Future improvements could include adding a graphical user interface (GUI) for input parameters, providing detailed documentation and usage examples, and exploring integration with other QGIS plugins or external tools for enhanced functionality, such as reporting or visualization.
 
-By following the instructions in this README, users can efficiently calculate cut, fill, and net volumes, streamlining their geospatial analysis workflows.
+
